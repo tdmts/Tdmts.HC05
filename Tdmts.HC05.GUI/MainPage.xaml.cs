@@ -3,6 +3,7 @@ using Tdmts.HC05.BL;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 
+
 namespace Tdmts.HC05.GUI
 {
     public sealed partial class MainPage : Page
